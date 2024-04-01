@@ -1,0 +1,1 @@
+compare the JSON properties and console flags,countries name,region,sub-region and population from API URL.
